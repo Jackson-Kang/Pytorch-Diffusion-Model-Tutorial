@@ -20,11 +20,17 @@ A simple tutorial of Diffusion Probabilistic Models(DPMs). This repository conta
 
 ## Denoising Diffusion Probabilistic Models
 * trained on MNIST dataset for 100 epochs
+
 * ground-truth samples
+
 ![DDPM_ground_truth](./assets/DDPM_ground_truth.png)
+
 * generated samples
+
 ![DDPM_generated](./assets/DDPM_generated.png)
+
 * perturbed samples
+
 ![DDPM_perturbed](./assets/DDPM_perturbed.png)
 
 
