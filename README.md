@@ -5,7 +5,7 @@ A simple tutorial of Diffusion Probabilistic Models(DPMs). This repository conta
 
 # Prerequisites
 (1) Download Pytorch and etcs.
-** [Anaconda](https://www.anaconda.com/)
+* [Anaconda](https://www.anaconda.com/)
 * Python=3.9
 * [Pytorch](https://pytorch.org/)=1.12.1 with CUDA 11.3
 
