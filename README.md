@@ -31,9 +31,9 @@ pip install -r requirements.txt
 # References
 
 [1] [Deep Unsupervised Learning using Nonequilibrium Thermodynamics](http://proceedings.mlr.press/v37/sohl-dickstein15.pdf), J. Sohl-Dickstein et. al., Proceedings of the 32nd International Conference on Machine Learning, 2015  
-[2] [Denoising Diffusion Probabilistic Models](https://arxiv.org/abs/2006.11239), J. Ho et. al., 34th Conference on Neural Information Processing Systems (NeurIPS 2020), 2020
-[3] [lucidrains' pytorch DDPM implementation](https://github.com/ising-diffusion-pytorch)  
-[4] [acids-ircam's DDPM tutorials](https://github.com/acids-ircam/diffusion_models)
+[2] [Denoising Diffusion Probabilistic Models](https://arxiv.org/abs/2006.11239), J. Ho et. al., 34th Conference on Neural Information Processing Systems (NeurIPS 2020), 2020  
+[3] [lucidrains' pytorch DDPM implementation](https://github.com/ising-diffusion-pytorch)   
+[4] [acids-ircam's DDPM tutorials](https://github.com/acids-ircam/diffusion_models)  
 
 
 
